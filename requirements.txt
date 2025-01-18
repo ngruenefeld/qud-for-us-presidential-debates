@@ -5,3 +5,7 @@ pyreadr
 pydantic
 openai
 tqdm
+transformers
+sentence-transformers
+torch
+scikit-learn
